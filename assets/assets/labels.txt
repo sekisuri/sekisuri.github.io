@@ -1,0 +1,3 @@
+0 Chihuahua
+1 Japanese spaniel
+2 Maltese dog
